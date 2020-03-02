@@ -1,0 +1,1 @@
+This project is to clone the Mint signup page to practice creating form fields. 
